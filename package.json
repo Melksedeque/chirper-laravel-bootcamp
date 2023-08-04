@@ -19,6 +19,7 @@
         "vue": "^3.2.41"
     },
     "dependencies": {
-        "dayjs": "^1.11.9"
+        "dayjs": "^1.11.9",
+        "vue-notification-bell": "^0.9.12"
     }
 }
