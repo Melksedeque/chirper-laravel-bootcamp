@@ -110,6 +110,20 @@ php artisan serve
 
 Access the application at `http://localhost:8000` or `http://127.0.0.1:8000`.
 
+### Step 6: Start Vite watch
+
+You may start the Vite develop watch to automatically change your modifications on CSS or JS:
+
+```
+npm run dev
+```
+
+Also, if you want to create a definitely build of the CSS and JS, use the following command:
+
+```
+npm run build
+```
+
 ## How to Use the Chirps System
 
 After setting up the project, you can create a user account and start using the Chirps system.
